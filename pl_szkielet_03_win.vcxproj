@@ -30,7 +30,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="f_lamberttextured.glsl" />
+    <None Include="terrain.mtl" />
     <None Include="v_lamberttextured.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="grass.png" />
+    <Image Include="kola.png" />
+    <Image Include="train.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="kola_big.obj" />
+    <Object Include="kola_med.obj" />
+    <Object Include="kola_small.obj" />
+    <Object Include="terrain.obj" />
+    <Object Include="train.obj" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

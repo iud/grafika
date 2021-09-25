@@ -43,5 +43,36 @@
     <None Include="v_lamberttextured.glsl">
       <Filter>Pliki zasobów</Filter>
     </None>
+    <None Include="terrain.mtl">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="grass.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="kola.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="train.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="kola_big.obj">
+      <Filter>Pliki zasobów</Filter>
+    </Object>
+    <Object Include="kola_med.obj">
+      <Filter>Pliki zasobów</Filter>
+    </Object>
+    <Object Include="kola_small.obj">
+      <Filter>Pliki zasobów</Filter>
+    </Object>
+    <Object Include="terrain.obj">
+      <Filter>Pliki zasobów</Filter>
+    </Object>
+    <Object Include="train.obj">
+      <Filter>Pliki zasobów</Filter>
+    </Object>
   </ItemGroup>
 </Project>
